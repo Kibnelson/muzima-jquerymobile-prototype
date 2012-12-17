@@ -1,0 +1,43 @@
+#errorDiv{
+text-align: center;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+background:  #cccccc ;
+color:   #FF0404 /*{b-body-color}*/;
+text-shadow: 0 /*{b-body-shadow-x}*/ 1px /*{b-body-shadow-y}*/ 0 /*{b-body-shadow-radius}*/ #fff /*{b-body-shadow-color}*/;
+font-weight: normal;
+background: url(cross.png) no-repeat;
+background-position:right;
+}
+#errorDiv * {
+margin: 0 auto;
+
+}
+
+
+.ui-grid-c img   {
+width: auto;
+height:auto;
+margin: 10px;
+}
+
+.ui-grid-c div   {
+padding:10px;
+}
+
+.imgCaption img   {
+width: 100%;
+text-align:center;
+font-size:12px;
+margin: -20px;
+
+
+}
+
+
+ .footer-wrapper
+        {
+            position: absolute;
+            bottom: 0px;
+            width: 100%;
+        }
